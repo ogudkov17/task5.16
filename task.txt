@@ -22,7 +22,7 @@ get
 del
 get
 add 1
-del
+get
 
 Выходные данные:
 1
